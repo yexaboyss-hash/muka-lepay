@@ -1,8 +1,8 @@
 const teks = [
-    "Roasting level: 100%",
+    "Roasting KONTOL",
     "Santai, ini cuma meme 😄",
-    "Ngoding dulu, debat belakangan.",
-    "404: Drama not found."
+    "KONTOL LU GEDE.",
+    "TAPI BOONK."
 ];
 
 function ganti(){
